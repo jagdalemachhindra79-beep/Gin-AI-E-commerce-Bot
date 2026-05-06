@@ -7,3 +7,4 @@ semantic-router[local]
 chromadb
 sentence_transformers
 protobuf
+python-3.10
